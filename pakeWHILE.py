@@ -1,6 +1,6 @@
 # looping dengan menggunakan while
 
-total_buku = 1000
+total_buku = 10
 
 print(f'Ibu berkata : "Bacalah {total_buku} buku"')
 print("")

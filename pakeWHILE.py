@@ -8,7 +8,7 @@ print("")
 buku_dibaca = 0
 
 while buku_dibaca < total_buku:
-    buku_dibaca = buku_dibaca + 1
+    buku_dibaca += 1
     print(f"Anak sedang membaca buku ke-{buku_dibaca}...Done")
 
 print("")
